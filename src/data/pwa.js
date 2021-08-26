@@ -1,4 +1,4 @@
-export const fundamentalsCollection = {
+export const pwaCollection =  {
 	name: "학년",
 	areas: [
 		{
