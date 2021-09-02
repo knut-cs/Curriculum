@@ -1,5 +1,5 @@
 export const pwaCollection =  {
-	name: "학년",
+	name: "4학년",
 	areas: [
 		{
 			name: "1학기",
