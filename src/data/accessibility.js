@@ -13,6 +13,8 @@ export const accessibilityCollection = {
 				},
 				{
 					name: "자료구조",
+					necessary:true,
+                    grade:2,
 					description: {
 						text: "정보처리 시스템에서 자료의 주요성은 매우 중요한 분야다. 여기서는 자료의 기계 내부의 표현 방법과 구조를 이해하고 구현하는 알고리즘을 익힌다.",
 					}
@@ -26,6 +28,8 @@ export const accessibilityCollection = {
 				},
 				{
 					name: "정보통신개론",
+					necessary:true,
+                    grade:2,
 					description: {
 						text: "정보처리 기술과 자료전송기술로 구성된 정보통신 시스템에 대한 개념을 소개하고, 자료의 공유, 전송 그리고 처리 절차에 대한 방법을 소개한다.",
 					}
@@ -75,12 +79,16 @@ export const accessibilityCollection = {
 				},
 				{
 					name: "운영체제",
+					necessary:true,
+                    grade:2,
 					description: {
 						text: "운영체제의 기본 개념 및 구성을 소개하고, 운영체제의 주된 기능 및 구현 기법들을 익힌다. 또 상용 운영체제 시스템에서 시스템 프로그래밍 작성을 경험한다.",
 					}
 				},
 				{
 					name: "윈도우프로그래밍",
+					necessary:true,
+                    grade:2,
 					description: {
 						text: "C# 언어를 기반으로 한 윈도우 프로그래밍의 기초를 학습하고, 데이터베이스 연동방법을 습득한다. 간단한 프로젝트를 통해 윈도우 응용프로그램 제작 능력을 함양한다.",
 					}
