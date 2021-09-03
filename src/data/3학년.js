@@ -5,7 +5,7 @@ export const thirdGradeCollection = {
 			name: "1학기",
 			skills: [
 				{
-					name: "CAD",
+					name: "cad",
 					description: {
 						text: "PC에서 활용되는 CAD TOOL을 이용하여 실무에서 응용될 수 있도록 완성도 예제를 활용하여 기초적인 설계 능력부터 고급 설계기능들까지를 단계적으로 기술을 배양하여 게임등 많은 분야에 적용할 수 있는 전문그래픽 디자인 능력을 확보한다.",
 					},

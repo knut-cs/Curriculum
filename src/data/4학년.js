@@ -59,7 +59,7 @@ export const fourthGradeCollection =  {
 			name: "2학기",
 			skills: [
 				{
-					name: "IoT응용",
+					name: "iot응용",
 					description: {
 						text: "최근 초 정보화시대에는 사물인터넷(IoT:Internet of Things)이 발전 및 응용되면서 그 이전에는 접하지 못했던 새로운 인류 생활의 패러다임(Paradigm)이 가능해지고 있으며, 향후 더욱더 가속화가 될 것이다. 본 과목에서는 이런 초 정보화시대에 첨병인 IoT에 대한 전반적인 개념을 이해하고 현재의 가치 있는(Valuable) 각종 응용사례를 이해하고, 또한 향후 차세대 IoT 분야에 대해 습득함을 교육목표로 한다.",
 
