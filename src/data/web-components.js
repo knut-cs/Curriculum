@@ -13,12 +13,16 @@ export const webcomponentsCollection = {
 				},
 				{
 					name: "컴퓨터구조",
+					necessary:true,
+                    grade:3,
 					description: {
 						text: "컴퓨터 하드웨어를 구성하는 각 구성요소들의 구조와 동작방법을 다루며, 이를 제어하기 위한 명령어 집합의 구성 및 명령 실행 과정을 소개한다. 이를 통해 컴퓨터가 소프트웨어와 상호작용 방법 및 동작 원리를 이해할 수 있다.",
 					}
 				},
 				{
 					name: "데이터베이스",
+					necessary:true,
+                    grade:3,
 					description: {
 						text: "데이터베이스의 기본 개념과 데이터베이스 설계 방법, 설계를 위한 데이터 모델링 기법을 강의한다. 또한 관계 DBMS에서 실제로 데이터를 구축하고 검색할 수 있도록 Structured Query Language를 강의한다.",
 					},
@@ -55,6 +59,8 @@ export const webcomponentsCollection = {
 			skills: [
 				{
 					name: "회로패턴설계",
+					necessary:true,
+                    grade:3,
 					description: {
 						text: "전자 회로를 실제 구현하기 위해 필요한 기술로 인쇄회로에 대한 기본적인 지식과 회로심볼 라이브러리 생성, PCB package 라이브러리 생성, 패턴설계 기법에 관한 실무적인 능력을 가질 수 있도록 교육한다.",
 					},
@@ -93,6 +99,8 @@ export const webcomponentsCollection = {
 				},
 				{
 					name: "마이크로프로세서",
+					necessary:true,
+                    grade:3,
 					description: {
 						text: "8086 마이크로프로세서를 장착한 트레이닝 키트를 활용하여 16-비트 마이크로프로세서의 기본 원리 및 활용능력을 배양한다.",
 					}
