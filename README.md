@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/knut-cs/Curriculum/master/demo.gif?raw=true" width="800" />
+
+
 # Curriculum 에 대하여..
 - Curriculum은 [web-skills](https://github.com/andreasbm/web-skills) 를 fork 하여 **2021년 한국교통대학교 컴퓨터공학과 커리큘럼** 페이지 제작 프로젝트입니다.
 - Git Branch 전략은 GitHub Flow 를 참고하였으며 협업 프로젝트의 특성에 맞추어 조금 변형하여 사용하였습니다.
