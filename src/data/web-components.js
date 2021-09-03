@@ -7,77 +7,45 @@ export const webcomponentsCollection = {
 				{
 					name: "CAD",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
-						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
-						]
+						text: "PC에서 활용되는 CAD TOOL을 이용하여 실무에서 응용될 수 있도록 완성도 예제를 활용하여 기초적인 설계 능력부터 고급 설계기능들까지를 단계적으로 기술을 배양하여 게임등 많은 분야에 적용할 수 있는 전문그래픽 디자인 능력을 확보한다.",
 					},
 
 				},
 				{
 					name: "컴퓨터구조",
 					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
-						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
-						]
+						text: "컴퓨터 하드웨어를 구성하는 각 구성요소들의 구조와 동작방법을 다루며, 이를 제어하기 위한 명령어 집합의 구성 및 명령 실행 과정을 소개한다. 이를 통해 컴퓨터가 소프트웨어와 상호작용 방법 및 동작 원리를 이해할 수 있다.",
 					}
 				},
 				{
 					name: "데이터베이스",
 					description: {
-						text: "Learn how to make your content search-friendly.",
-						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
-						]
+						text: "데이터베이스의 기본 개념과 데이터베이스 설계 방법, 설계를 위한 데이터 모델링 기법을 강의한다. 또한 관계 DBMS에서 실제로 데이터를 구축하고 검색할 수 있도록 Structured Query Language를 강의한다.",
 					},
 
 				},
 				{
 					name: "모바일응용시스템",
 					description: {
-						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
-						links: [
-							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
-							["SVG on the web", "https://svgontheweb.com/"],
-						]
+						text: "모바일 응용 플랫폼과 하드웨어를 연동하여 시스템을 구축할 수 있는 방법을 다룬다. 이를 위해 일반화되어 있는 모바일 플랫폼에서 프로그래밍하는 방법과 하드웨어와 연동하는 방법을 소개하며, 이를 활용할 수 있도록 한다.",
 					}
 				},
 				{
 					name: "임베디드소프트웨어",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "AVR 마이크로컨트롤러를 기반으로 한 정보가전, 제어분야 네트워크기기, 게임기기, 물류/금융, 차량/ 교통, 사무의료 분야등에 응용할 수 있는 프로그래밍 방법과 임베디드 시스템 회로 시뮬레이션을 활 수 있는 방법을 습득함으로써 임베디드 시스템 설계를 할 수 있도록 함을 목표로 한다.",
 					}
 				},
 				{
 					name: "리눅스프로그래밍",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "시스템 콜, 동기화, 파일 입출력, 스레드 등 리눅스를 위한 시스템 프로그램 작성을 학습하며, 이를 통해 운영체제가 동작하는 방법을 이해하고, 운영체제의 서비스를 이용하는 방법을 학습한다. 이를 통해 임베디드시스템, IoT 장치들을 효과적으로 제어할 수 있는 능력을 함양한다.",
 					}
 				},
 				{
 					name: "기계학습",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "기계학습의 기본개념을 학습하고, 이를 통해 기계학습을 위한 데이터 설계방법, 기계학습 모델 수립 방법, 기계학습 모델의 결과를 분석하는 방법을 학습하고, 실제 사례를 응용 방법을 습득한다.",
 					}
 				},
 			]
@@ -88,87 +56,51 @@ export const webcomponentsCollection = {
 				{
 					name: "회로패턴설계",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
-						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
-						]
+						text: "전자 회로를 실제 구현하기 위해 필요한 기술로 인쇄회로에 대한 기본적인 지식과 회로심볼 라이브러리 생성, PCB package 라이브러리 생성, 패턴설계 기법에 관한 실무적인 능력을 가질 수 있도록 교육한다.",
 					},
 
 				},
 				{
 					name: "클라우드컴퓨팅",
 					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
-						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
-						]
+						text: "클라우드 컴퓨팅의 개념, 모델, 기술, 아키텍쳐 등의 전반적인 내용을 학습한다. 아울러 클라우드 애플리케이션 개발을 위한 플랫폼 활용 방법을 이해하고, 사례 연구 분석을 통해 실무에 응용이 가능한 지식을 습득한다.",
 					}
 				},
 				{
 					name: "네트워크프로그래밍",
 					description: {
-						text: "Learn how to make your content search-friendly.",
-						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
-						]
+						text: "리눅스 시스템에서 소캣 프로그래밍 방법을 다루며, 이를 통해 TCP 서버/클라이언트, 멀티스레드, UDP 서버/클라이언트 등을 이용한 네트워크 프로그래밍 능력을 기르고, 활용할 수 있다.",
 					},
 
 				},
 				{
 					name: "프로그래밍언어론",
 					description: {
-						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
-						links: [
-							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
-							["SVG on the web", "https://svgontheweb.com/"],
-						]
+						text: "functional programming, logic programming, object-oriented programming 등 프로그래밍 언어들의 유형 및 특성을 비교-분석하고, 언어의 syntax를 기술하는 방법, 구조체, 자료형 등의 프로그래밍 언어의 설계 및 문법기술 방법에 대해 학습하여 응용분야에 따라 적합한 언어를 선택하는 능력을 갖추도록 한다.",
 					}
 				},
 				{
 					name: "소프트웨어공학",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "소프트웨어 라이프 사이클의 각 단계를 효과적으로 관리하여 고품질의 소프트웨어를 생성하기 위한 방법론을 공학적 관점에서 접근하는 것으로 소프트웨어 설계 방법 및 각종 도구(tool)을 소개하고, 이를 활용하여 소프트웨어를 효과적으로 설계할 수 있도록 한다.",
 					}
 				},
 				{
 					name: "웹서버프로그래밍",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "인터넷상에서 운용될 수 있는 서버를 구축하고 이를 기반으로 하는 프로그램 작성방법을 학습한다. 자료실 기능ㅇㄹ 갖춘 게시판의 개발과 회원가입과 회원인증 및 관리 로직을 실제 개발해봄으로써 어플리케이션 개발능력을 배양한다.",
 					}
 				},
 				{
 					name: "마이크로프로세서",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "8086 마이크로프로세서를 장착한 트레이닝 키트를 활용하여 16-비트 마이크로프로세서의 기본 원리 및 활용능력을 배양한다.",
 					}
 				},
 				{
 					name: "예비캡스톤디자인",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "캡스톤디자인1을 위한 사전 준비 단계의 교과목으로 캡스톤디자인을 위한 팀구성, 작품 계획 등을 위한 교과목으로서 4학년 캡스톤 디자인을 즉시 진행할 수 있도록 하는 것이다. 이 과목은 1학점으로 Pass/Non-Pass 과목이다.",
 					}
 				},
 			]

@@ -7,77 +7,45 @@ export const accessibilityCollection = {
 				{
 					name: "임베디드프로그래밍",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
-						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
-						]
+						text: "임베디드프로그래밍의 개념과 하드웨어와 프로그래밍의 관계를 이해하여 이를 기반으로 다양한 임베디드 시스템 프로그래밍 실습을 통해 실무에 적용 가능한 임베디드 프로그래밍 능력을 배양한다.",
 					},
 
 				},
 				{
 					name: "자료구조",
 					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
-						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
-						]
+						text: "정보처리 시스템에서 자료의 주요성은 매우 중요한 분야다. 여기서는 자료의 기계 내부의 표현 방법과 구조를 이해하고 구현하는 알고리즘을 익힌다.",
 					}
 				},
 				{
 					name: "객체지향프로그래밍",
 					description: {
-						text: "Learn how to make your content search-friendly.",
-						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
-						]
+						text: "객체지향의 개념과 이를 활용하여 소프트웨어를 설계하는 방법을 다룬다. 객체 지향적인 소프트웨어 설계를 구현할 수 있도록 객체지향 프로그래밍 언어를 소개하고, 이를 활용하여 설계한 내용을 구현한다.",
 					},
 
 				},
 				{
 					name: "정보통신개론",
 					description: {
-						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
-						links: [
-							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
-							["SVG on the web", "https://svgontheweb.com/"],
-						]
+						text: "정보처리 기술과 자료전송기술로 구성된 정보통신 시스템에 대한 개념을 소개하고, 자료의 공유, 전송 그리고 처리 절차에 대한 방법을 소개한다.",
 					}
 				},
 				{
 					name: "컴퓨터네트워크",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "정보통신에서의 기본 개념을 바탕으로 컴퓨터 네트워크와 통신 구조에 대해서 학습한다. 응용지향의 통신 계층과 각종 응용 서비스, 네트워크 관리, 보안 및 분산 환경에서의 응용 개발 방법론 등의 내용을 중심적으로 학습한다.",
 					}
 				},
 				{
 					name: "회로이론",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "회로망 해석의 기초인 이론을 확립 시켜 전자회로의 정특성 해석과 연구 분석에 필요한 능력을 기른다.",
 					}
 				},
 				{
 					name: "디지털회로설계",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "디지털시스템의 이해와 디지털시스템의 활용을 위한 기본지식을 습득하여, IT분야의 전문 인력으로서 소양과 능력을 갖추도록 한다.",
 					}
 				}
 			]
@@ -88,77 +56,46 @@ export const accessibilityCollection = {
 				{
 					name: "자바프로그래밍",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
-						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
-						]
+						text: "자바 언어에 대한 이론과 실습을 통해 유능한 프로그래머로서 능력을 배양하는 데 초점이 맞추어져 있다.",
 					},
 
 				},
 				{
 					name: "알고리즘",
 					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
-						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
-						]
+						text: "주어진 문제를 컴퓨터를 이용하여 해결하기 위한 여러 동작의 유한한 단계로 구성되는 알고리즘의 기본 개념과 알고리즘 기술 방법, 성능 평가 방법 등을 소개한다. 또한 컴퓨터 프로그래밍을 할 때 사용할 수 있는 여러 알고리즘을 소개하고, 구현하여 활용할 수 있도록 한다.",
 					}
 				},
 				{
 					name: "전자회로실습",
 					description: {
-						text: "Learn how to make your content search-friendly.",
-						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
-						]
+						text: "전자회로의 중요한 수동소자와 각종 계측기 및 장비를 사용하여 그 내용을 확인함을 교육목표로 한다. 이를 통해 회로도를 보는 법, 각종 장비를 다루는 법, 각종 계측기를 사용 방법 및 조작하는 방법, 각종 공구 다루는 법, 데이터 처리 방법, 표, 그림으로 데이터를 표현하는 방법 등을 습득함을 교육 목표로 한다.",
 					},
 
 				},
 				{
 					name: "운영체제",
 					description: {
-						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
-						links: [
-							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
-							["SVG on the web", "https://svgontheweb.com/"],
-						]
+						text: "운영체제의 기본 개념 및 구성을 소개하고, 운영체제의 주된 기능 및 구현 기법들을 익힌다. 또 상용 운영체제 시스템에서 시스템 프로그래밍 작성을 경험한다.",
 					}
 				},
 				{
 					name: "윈도우프로그래밍",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "C# 언어를 기반으로 한 윈도우 프로그래밍의 기초를 학습하고, 데이터베이스 연동방법을 습득한다. 간단한 프로젝트를 통해 윈도우 응용프로그램 제작 능력을 함양한다.",
 					}
 				},
 				{
 					name: "웹프로그래밍기초",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "웹 페이지를 개발하기 위한 기본 언어인 HTML/XHTML, CSS, JavaScript의 기본 문법을 이해하며, 웹 기반 환경에서 여러 플랫폼에 적합한 응용프로그램을 개발하는 최신 이론과 기법을 다룬다.",
+
 					}
 				},	
 				{
 					name: "시스템프로그래밍",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "이 과목은 기계어와 어셈블리어, 어셈블러와 매크로프로세서, 언어처리기와 컴파일러, 링커, 로더 등 시스템 소프트웨어의 주요 내용에 대한 이론적인 학습을 하며, 어셈블러의 구현을 실습한다.",
 					}
 				}
 			]
