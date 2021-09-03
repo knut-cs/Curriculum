@@ -1,5 +1,5 @@
 export const fundamentalsCollection = {
-	name: "학년",
+	name: "1학년",
 	areas: [
 		{
 			name: "1학기",
@@ -132,7 +132,7 @@ export const fundamentalsCollection = {
 
 				},
 				{
-					name: "용합기초교양",
+					name: "융합기초교양",
 					description: {
 						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
 						links: [

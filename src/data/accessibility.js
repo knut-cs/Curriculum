@@ -1,5 +1,5 @@
 export const accessibilityCollection = {
-	name: "학년",
+	name: "2학년",
 	areas: [
 		{
 			name: "1학기",
