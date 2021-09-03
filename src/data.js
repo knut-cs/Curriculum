@@ -1,7 +1,7 @@
-import {fundamentalsCollection} from "./data/fundamentals.js";
-import {webcomponentsCollection} from "./data/web-components.js";
-import {accessibilityCollection} from "./data/accessibility.js";
-import {pwaCollection} from "./data/pwa.js";
+import {fristGradeCollection} from "./data/1학년.js";
+import {secondGradeCollection} from "./data/2학년.js";
+import {thirdGradeCollection} from "./data/3학년.js";
+import {fourthGradeCollection} from "./data/4학년.js";
 // import {architectureCollection} from "./data/architecture-and-paradigmes.js";
 // import {buildtoolsCollection} from "./data/build-tools.js";
 // import {testingCollection} from "./data/testing.js";
@@ -16,8 +16,8 @@ import {pwaCollection} from "./data/pwa.js";
  * All available collections.
  */
 export const collections = [
-	fundamentalsCollection,
-	accessibilityCollection,
-	webcomponentsCollection,
-	pwaCollection,
+	fristGradeCollection,
+	secondGradeCollection,
+	thirdGradeCollection,
+	fourthGradeCollection,
 ];
