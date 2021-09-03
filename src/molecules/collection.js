@@ -117,7 +117,7 @@ export class Collection extends LitElement {
 		const {collection, index, compact} = this;
 
 		return html`
-			${collection.name != null ? html`<h1 id="title" @click="${this.copyLink}">${index != null ? `${index + 1}. ` : undefined}${collection.name}</h1>` : undefined}
+			${collection.name != null ? html`<h1 id="title" @click="${this.copyLink}">${index != null ? ` ` : undefined}${collection.name}</h1>` : undefined}
 			<div id="areas">
 				${repeat(collection.areas || [], area => getId(collection, area), (area, i) => html`
 					<div class="area">

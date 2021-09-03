@@ -1,4 +1,4 @@
-export const pwaCollection =  {
+export const fourthGradeCollection =  {
 	name: "4학년",
 	areas: [
 		{

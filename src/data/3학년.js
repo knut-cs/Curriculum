@@ -1,4 +1,4 @@
-export const webcomponentsCollection = {
+export const thirdGradeCollection = {
 	name: "3학년",
 	areas: [
 		{

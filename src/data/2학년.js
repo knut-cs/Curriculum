@@ -1,4 +1,4 @@
-export const accessibilityCollection = {
+export const secondGradeCollection = {
 	name: "2학년",
 	areas: [
 		{

@@ -1,4 +1,4 @@
-export const fundamentalsCollection = {
+export const fristGradeCollection = {
 	name: "1학년",
 	areas: [
 		{
