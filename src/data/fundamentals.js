@@ -7,87 +7,51 @@ export const fundamentalsCollection = {
 				{
 					name: "진로탐색세미나",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
-						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
-						]
+						text: "신입생에게 체계적인 학교생활 안내로 조기 적응과 학습 동기 유발 및 진로 탐색 활동으로 진로 목표에 인성 역량을 함양한다.",
 					},
 
 				},
 				{
 					name: "미래사회와 창의적인재",
 					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
-						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
-						]
+						text: "사회 각계각층의 전문가를 초빙하여 옴니버스식 특강을 통해 사회 다양성에 대한 이해의 폭을 넓히고 융합사고 및 의사소통역량을 향상시킨다.",
 					}
 				},
 				{
 					name: "논리적사고",
 					description: {
-						text: "Learn how to make your content search-friendly.",
-						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
-						]
+						text: "이 과목은 생활 속에서 어떻게 사고해야 논리적인가를 배우는 과목이다. 우리는 논리적인 사고가 되기 위한 조건과 그렇지 않은 사고가 되는 이유를 각각 살펴볼 것이다. 이를 위해 논증의 평가 기준과 전제의 수용 가능성 등을 정리한다. 이 과정에서 학생들은 다양한 분야의 주제에 걸쳐 논증 구조를 분석하고 평가하는 융합적 사고를 익힐 것이다. 아울러 귀납적 추론 등을 통해 창의적인 가설을 설정하고 그 가설을 논리적으로 확증하는 연습을 병행한다. 또한, 나쁜 논증이 되는 이유를 분석함으로써 우리가 일상적으로 쓰고 있는 말과 사고를 비판적으로 성찰할 수 있는 능력을 배양할 것이다.",
 					},
 
 				},
 				{
 					name: "글쓰기와 프리젠테이션",
 					description: {
-						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
-						links: [
-							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
-							["SVG on the web", "https://svgontheweb.com/"],
-						]
+						text: "말과 글의 가치와 기능을 알고, 다양한 주제와 형식으로 창의적인 텍스트를 생산하여 이를 상황에 맞게 발표 및 토론하는 화법을 익힘으로써 대학생 및 예비사회인으로서의 바람직한 의사소통 능력과 리더쉽 능력을 배양한다.",
 					}
 				},
 				{
 					name: "기초통계학",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "통계학은 관찰 및 조사로 얻을 수 있는 데이터로부터, 응용 수학의 기법을 이용해 수치상의 성질, 규칙성 또는 불규칙성을 찾아낸다. 통계적 기법은, 실험 계획, 데이터의 요약이나 해석을 하는데 있어서의 근거를 제공하는 학문이며, 폭넓은 분야에서 응용되어 전문지식 역량을 배양하는데 기초가 되도록 학습하는데 그 목표를 두고 있다.",
 					}
 				},
 				{
 					name: "융합기초교양",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "융합기초교양 : 창의융합인재 양성을 위한 학문 간 융합 바탕의 입문 교양 과정, 모든 학과 운영, 융합전공 이수 시 최대 6학점까지 전공학점으로 인정",
 					}
 				},
 				{
 					name: "컴퓨터개론",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "컴퓨터 소프트웨어 이론 및 응용 전반에 대한 소개와 향후 선택할 수 있는 다양한 분야를 미리 접하는 기회를 제공한다. 전공 기반 핵심 분야와 최근 등장한 4차산업 핵심기술들을 같이 다루어 전공에 대한 이해도를 높이고 스스로 학습할 수 있는 기초를 제공한다.",
 					}
 				},
 				{
 					name: "기초컴퓨터프로그래밍",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "컴퓨터 프로그래밍의 기본기법과 컴퓨터 구조의 기초지식을 바탕으로 선택된 프로그래밍 언어를 사용하여 주어진 문제를 효과적인 방법으로 해결하는 방법을 익힙니다. 선택된 프로그래밍 언어를 중심으로 프로그램 설계 능력을 배양하여 주어진 문제를 분석하고, 프로그램을 설계, 구현할 수 있는 능력을 배양한다. 데이터 구조, 입출력, 각 실행문의 흐름 제어 및 부프로그램의 사용법을 익히고, 문제해결의 단계적 분할과 모듈의 개념을 사용하여 다양한 응용문제를 푸는 프로그램 실습이 포함된다.",
 					}
 				}
 			]
@@ -98,67 +62,39 @@ export const fundamentalsCollection = {
 				{
 					name: "실용영어",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
-						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
-						]
+						text: "실용 영어 교과목은 학생들에게 기본적인 영어 능력을 길러주기 위한 과목이며 주로 TOEIC 강의와 필요한 영어 문법에 대한 강의로 진행된다. 특히 일상생활이나 비즈니스 현장 등 현실적인 면에 관련된 영어를 학생들이 익히는데 강의의 중점을 두고 있다. 그리고 학생들이 실제로 TOEIC 시험 준비 문제 풀이나 관련된 영어 문법 사항 등을 공부할 수 있도록 강의를 진행한다.",
 					},
 
 				},
 				{
 					name: "선형대수",
 					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
-						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
-						]
+						text: "선형대수학은 벡터 공간, 벡터, 선형 변환, 행렬, 연립 선형 방정식 등을 연구하는 대수학의 한 분야이다. 현대 선형대수학은 그중에서도 벡터 공간이 주 학습 대상으로 공학에 널리 활용된다. 따라서 전공교과목의 전문지식 역량을 배양하는데 기초가 되도록 학습하는데 그 목표를 두고 있다.",
 					}
 				},
 				{
 					name: "글로컬리더",
 					description: {
-						text: "Learn how to make your content search-friendly.",
-						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
-						]
+						text: "사회 각계각층의 전문가를 초빙하여 옴니버스식 특강을 통해 사회 다양성에 대한 이해의 폭을 넓히고 글로컬 리더를 양성한다.",
 					},
 
 				},
 				{
 					name: "융합기초교양",
 					description: {
-						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
-						links: [
-							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
-							["SVG on the web", "https://svgontheweb.com/"],
-						]
+						text: "융합기초교양 : 창의융합인재 양성을 위한 학문 간 융합 바탕의 입문 교양 과정, 모든 학과 운영, 융합전공 이수 시 최대 6학점까지 전공학점으로 인정",
 					}
 				},
 				{
 					name: "논리회로",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "디지털시스템의 개요인수의 진법, 정보의 표현, 부·울 대수, 기본 논리소자, 진리표, 논리식의 간소화, 조합 논리회로의 설계 방법, 조합논리응용회로등에관한이론을학습한다. 특히, 논리회로에서 사용되면서 소프트웨어와 깊이 있게 관련된 다양한 논리회로 기술에 대해서 습득한다.",
 					}
 				},
 				{
-					name: "C언어",
+					name: "c언어",
 					description: {
-						text: "Learn the best practices of writing HTML.",
-						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
-						]
+						text: "빠르고 효율적인 프로그램개발에 많이 사용되고 있는 절차지향 프로그래밍 언어인 C언어의 기본특징과 자료표현과 입출력, 데이터형, 연산자, 제어구조, 포인터, 배열, 함수, 구조체와 공용체, 동적 메모리 할당 등 기초문법에 대해 학습하고, 다양한 문제해결을 위한 C언어 프로그래밍을 실습함으로써 기본적인 프로그램개발능력을 함양한다.",
 					}
 				}	
 			]
